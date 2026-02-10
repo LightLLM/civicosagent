@@ -1,0 +1,5 @@
+{
+  "name": "CivicOS - Autonomous City Agent",
+  "description": "An autonomous city-operations agent that monitors live feeds, predicts second-order effects, and executes safe interventions using the Gemini API.",
+  "requestFramePermissions": []
+}
